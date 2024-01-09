@@ -1,3 +1,4 @@
-# redpositiveopc
-cd to folder and then run npm start.
-run localhost:3000
+# SOCIAL MEDIA APP
+cd to client and server and run following commands in terminal in both of them
+#npm i
+#npm start
