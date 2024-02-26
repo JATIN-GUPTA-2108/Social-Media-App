@@ -1,4 +1,9 @@
 # SOCIAL MEDIA APP
-cd to client and server and run following commands in terminal in both of them
-# npm i
-# npm start
+
+This consist of both backend and frontend in folders server and client respectively
+
+# START THIS PROJECT
+change directory to respective folders and run following commands in both.
+npm i
+npm start
+
